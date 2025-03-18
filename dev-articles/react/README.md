@@ -9,3 +9,8 @@ Short summaries and links to my ReactJs-related posts.
 1. **React Virtualization**  
    Optimizing Performance with React Virtualization: An Industry-Level Approach.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/optimizing-performance-with-react-virtualization-an-industry-level-approach-264f)
+
+2. **React Concurrent Mode**  
+   React Concurrent Mode: Optimizing React Performance.  
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/react-concurrent-mode-optimizing-react-performance-2mln)
+
