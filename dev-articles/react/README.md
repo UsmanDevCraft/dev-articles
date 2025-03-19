@@ -14,3 +14,6 @@ Short summaries and links to my ReactJs-related posts.
    React Concurrent Mode: Optimizing React Performance.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/react-concurrent-mode-optimizing-react-performance-2mln)
 
+3. **Concurrent Rendering in React**  
+   APIs for Concurrent Rendering in React: Optimizing Asynchronous UI Updates.  
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/apis-for-concurrent-rendering-in-react-optimizing-asynchronous-ui-updates-1eig)
