@@ -13,3 +13,7 @@ Short summaries and links to my General posts.
 2. **GitHub Repos for FE**  
    10 Useful GitHub Repos Made for Front-End Developers in 2024.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/10-useful-github-repos-made-for-front-end-developers-in-2024-1b6f)
+
+3. **Test Empowered by Google**  
+   Full Stack Developer Test Empowered by Google: A Journey Through Challenges and MCQs.  
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/full-stack-developer-test-empowered-by-google-a-journey-through-challenges-and-mcqs-1p5m)
