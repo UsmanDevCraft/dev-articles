@@ -17,3 +17,7 @@ Short summaries and links to my General posts.
 3. **Test Empowered by Google**  
    Full Stack Developer Test Empowered by Google: A Journey Through Challenges and MCQs.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/full-stack-developer-test-empowered-by-google-a-journey-through-challenges-and-mcqs-1p5m)
+
+4. **2025 Tech Trends**  
+   2025 Tech Trends: What's In, What's Out, and What You Need to Know.  
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/2025-tech-trends-whats-in-whats-out-and-what-you-need-to-know-37pj)
