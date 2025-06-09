@@ -13,3 +13,7 @@ Short summaries and links to my JavaScript-related posts.
 2. **JavaScript Interview Prep**  
    Crack Your JavaScript Interview: Key Concepts and Practice Questions.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/crack-your-javascript-interview-key-concepts-and-practice-questions-2p62)
+
+3. **JavaScript and React Cheat Sheet**  
+   Your Ultimate JavaScript and React Cheat Sheet for Interviews.  
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/your-ultimate-javascript-and-react-cheat-sheet-for-interviews-2e1j)
