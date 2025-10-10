@@ -8,13 +8,13 @@ A collection of my technical articles, coding insights, and learning notes — c
 
 | # | Topic | Description | Link |
 |---|--------|--------------|------|
-| 1 | JavaScript | Core concepts, advanced patterns, and best practices | [View Articles](./javascript/README.md) |
-| 2 | TypeScript | Type safety, interfaces, generics, and real-world usage | [View Articles](./typescript/README.md) |
-| 3 | React | Components, hooks, performance optimization, and state management | [View Articles](./react/README.md) |
-| 4 | Node.js | Server-side JavaScript, APIs, and backend workflows | [View Articles](./node/README.md) |
-| 5 | Express | Middleware, routing, and API architecture | [View Articles](./express/README.md) |
-| 6 | HTML & CSS | Layouts, animations, responsive design, and styling tips | [View Articles](./htmlncss/README.md) |
-| 7 | General | Debugging, productivity, workflows, and developer mindset | [View Articles](./general/README.md) |
+| 1 | JavaScript | Core concepts, advanced patterns, and best practices | [View Articles](./dev-articles/javascript/README.md) |
+| 2 | TypeScript | Type safety, interfaces, generics, and real-world usage | [View Articles](./dev-articles/typescript/README.md) |
+| 3 | React | Components, hooks, performance optimization, and state management | [View Articles](./dev-articles/react/README.md) |
+| 4 | Node.js | Server-side JavaScript, APIs, and backend workflows | [View Articles](./dev-articles/node/README.md) |
+| 5 | Express | Middleware, routing, and API architecture | [View Articles](./dev-articles/express/README.md) |
+| 6 | HTML & CSS | Layouts, animations, responsive design, and styling tips | [View Articles](./dev-articles/htmlncss/README.md) |
+| 7 | General | Debugging, productivity, workflows, and developer mindset | [View Articles](./dev-articles/general/README.md) |
 
 ---
 
