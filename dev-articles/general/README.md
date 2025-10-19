@@ -21,3 +21,7 @@ Short summaries and links to my General posts.
 4. **2025 Tech Trends**  
    2025 Tech Trends: What's In, What's Out, and What You Need to Know.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/2025-tech-trends-whats-in-whats-out-and-what-you-need-to-know-37pj)
+
+5. **Architecture Series: Part 1**  
+   Pagination — Architecture Series: Part 1  
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b)
