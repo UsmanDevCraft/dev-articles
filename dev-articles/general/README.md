@@ -25,3 +25,7 @@ Short summaries and links to my General posts.
 5. **Architecture Series: Part 1**  
    Pagination — Architecture Series: Part 1  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/pagination-architecture-series-part-1-g8b)
+
+6. **Architecture Series: Part 2**  
+   Indexing — Architecture Series: Part 2 
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/indexing-architecture-series-part-2-25bn)
