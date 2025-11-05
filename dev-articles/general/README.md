@@ -29,3 +29,7 @@ Short summaries and links to my General posts.
 6. **Architecture Series: Part 2**  
    Indexing — Architecture Series: Part 2 
    🔗 [Read on Dev.to](https://dev.to/usman_awan/indexing-architecture-series-part-2-25bn)
+
+7. **Hacktoberfest: Maintainer Spotlight**  
+   QuickDoodle: Real-Time Drawing & Guessing Game (with AI Agents Coming Soon!) – Hacktoberfest 2025 Spotlight
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/quickdoodle-real-time-drawing-guessing-game-with-ai-agents-coming-soon-hacktoberfest-2025-3pci)
