@@ -37,3 +37,7 @@ Short summaries and links to my General posts.
 8. **Architecture Series: Part 3**  
    Virtualization — Architecture Series: Part 3
    🔗 [Read on Dev.to](https://dev.to/usman_awan/virtualization-architecture-series-part-3-38bb)
+
+9. **Architecture Series: Part 4**  
+    Caching — The Secret Weapon Behind Fast, Scalable Systems — Architecture Series: Part 4
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/caching-the-secret-weapon-behind-fast-scalable-systems-architecture-series-part-4-44cm)
