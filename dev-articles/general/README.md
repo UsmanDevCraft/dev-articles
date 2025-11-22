@@ -41,3 +41,7 @@ Short summaries and links to my General posts.
 9. **Architecture Series: Part 4**  
     Caching — The Secret Weapon Behind Fast, Scalable Systems — Architecture Series: Part 4
    🔗 [Read on Dev.to](https://dev.to/usman_awan/caching-the-secret-weapon-behind-fast-scalable-systems-architecture-series-part-4-44cm)
+
+10. **Architecture Series: Part 5**  
+    Sharding - Architecture Series: Part 5
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
