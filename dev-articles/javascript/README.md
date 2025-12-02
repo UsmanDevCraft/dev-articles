@@ -17,3 +17,7 @@ Short summaries and links to my JavaScript-related posts.
 3. **JavaScript and React Cheat Sheet**  
    Your Ultimate JavaScript and React Cheat Sheet for Interviews.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/your-ultimate-javascript-and-react-cheat-sheet-for-interviews-2e1j)
+
+4. **THE ULTIMATE JS LESSON — this Keyword (Browser & Node)**  
+   Why "this" Betrays You & How call/apply/bind Save Your Life – The Complete Story
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/why-this-betrays-you-how-callapplybind-save-your-life-the-complete-story-4pnf)
