@@ -45,3 +45,7 @@ Short summaries and links to my General posts.
 10. **Architecture Series: Part 5**  
     Sharding - Architecture Series: Part 5
    🔗 [Read on Dev.to](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
+
+11. **Architecture Series: Part 6**  
+    Throttle Smart, Scale Safe — Complete Guide to Rate Limiting — Architecture Series: Part 6
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/throttle-smart-scale-safe-complete-guide-to-rate-limiting-architecture-series-part-6-43hl)
