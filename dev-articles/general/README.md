@@ -49,3 +49,7 @@ Short summaries and links to my General posts.
 11. **Architecture Series: Part 6**  
     Throttle Smart, Scale Safe — Complete Guide to Rate Limiting — Architecture Series: Part 6
    🔗 [Read on Dev.to](https://dev.to/usman_awan/throttle-smart-scale-safe-complete-guide-to-rate-limiting-architecture-series-part-6-43hl)
+
+12. **byLLM & A11yShape**  
+    AI for Everyone: How byLLM & A11yShape Are Redefining Inclusive Coding
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9)
