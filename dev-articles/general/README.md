@@ -57,3 +57,7 @@ Short summaries and links to my General posts.
 13. **The Switzerland of AI Tooling: Inside TanStack AI’s Bold New Approach**  
     TanStack AI: The Open-Source, Framework-Agnostic AI SDK Developers Have Been Waiting For
    🔗 [Read on Dev.to](https://dev.to/usman_awan/the-switzerland-of-ai-tooling-inside-tanstack-ais-bold-new-approach-1cbb)
+
+14. **The Night npm Caught Fire: Inside the 2025 JavaScript Supply-Chain Meltdown**  
+    Recent NPM Supply Chain Attacks — What Happened, Why It Matters, and How to Protect Yourself
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/the-night-npm-caught-fire-inside-the-2025-javascript-supply-chain-meltdown-52o3)
