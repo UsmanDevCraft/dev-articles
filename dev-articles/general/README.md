@@ -61,3 +61,7 @@ Short summaries and links to my General posts.
 14. **The Night npm Caught Fire: Inside the 2025 JavaScript Supply-Chain Meltdown**  
     Recent NPM Supply Chain Attacks — What Happened, Why It Matters, and How to Protect Yourself
    🔗 [Read on Dev.to](https://dev.to/usman_awan/the-night-npm-caught-fire-inside-the-2025-javascript-supply-chain-meltdown-52o3)
+
+15. **The 2025 Tech Stack Shake-Up: Why Next.js, Python & Postgres Are Taking Over the World**  
+    Tech Stacks in 2025: The AI-Driven Evolution of Frontend, Backend, Databases & Full-Stack Development
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/the-2025-tech-stack-shake-up-why-nextjs-python-postgres-are-taking-over-the-world-4d6p)
