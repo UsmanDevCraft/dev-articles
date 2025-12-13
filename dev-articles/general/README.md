@@ -65,3 +65,7 @@ Short summaries and links to my General posts.
 15. **The 2025 Tech Stack Shake-Up: Why Next.js, Python & Postgres Are Taking Over the World**  
     Tech Stacks in 2025: The AI-Driven Evolution of Frontend, Backend, Databases & Full-Stack Development
    🔗 [Read on Dev.to](https://dev.to/usman_awan/the-2025-tech-stack-shake-up-why-nextjs-python-postgres-are-taking-over-the-world-4d6p)
+
+15. **From React 19.0 to 19.2: What’s New, What Improved, and Why It Matters**  
+    React 19: A New Era for Modern React Development
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/from-react-190-to-192-whats-new-what-improved-and-why-it-matters--1ip4)
