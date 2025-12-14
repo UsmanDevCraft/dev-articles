@@ -25,3 +25,7 @@ Short summaries and links to my ReactJs-related posts.
 5. **State Management in React**  
    The Evolution of State Management in React: Redux Signals What’s Next?.  
    🔗 [Read on Dev.to](https://dev.to/usman_awan/the-evolution-of-state-management-in-react-redux-signals-whats-next-199d)
+
+6. **From React 19.0 to 19.2: What’s New, What Improved, and Why It Matters**  
+    React 19: A New Era for Modern React Development
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/from-react-190-to-192-whats-new-what-improved-and-why-it-matters--1ip4)
