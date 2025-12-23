@@ -65,3 +65,7 @@ Short summaries and links to my General posts.
 15. **The 2025 Tech Stack Shake-Up: Why Next.js, Python & Postgres Are Taking Over the World**  
     Tech Stacks in 2025: The AI-Driven Evolution of Frontend, Backend, Databases & Full-Stack Development
    🔗 [Read on Dev.to](https://dev.to/usman_awan/the-2025-tech-stack-shake-up-why-nextjs-python-postgres-are-taking-over-the-world-4d6p)
+
+16. **🚀 Using Local AI Models and APIs as a JavaScript Developer**  
+    🚀 Key Points on Using Local AI Models and APIs as a JavaScript Developer
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/using-local-ai-models-and-apis-as-a-javascript-developer-4cjf)
