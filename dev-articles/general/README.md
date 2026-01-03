@@ -69,3 +69,7 @@ Short summaries and links to my General posts.
 16. **🚀 Using Local AI Models and APIs as a JavaScript Developer**  
     🚀 Key Points on Using Local AI Models and APIs as a JavaScript Developer
    🔗 [Read on Dev.to](https://dev.to/usman_awan/using-local-ai-models-and-apis-as-a-javascript-developer-4cjf)
+
+17. **Architecture Series: Part 7**  
+    🚀 From One Server to Millions of Users: A Practical Guide to Load Balancing ⚖️
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/from-one-server-to-millions-of-users-a-practical-guide-to-load-balancing-2mgd)
