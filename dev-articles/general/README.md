@@ -73,3 +73,7 @@ Short summaries and links to my General posts.
 17. **Architecture Series: Part 7**  
     🚀 From One Server to Millions of Users: A Practical Guide to Load Balancing ⚖️
    🔗 [Read on Dev.to](https://dev.to/usman_awan/from-one-server-to-millions-of-users-a-practical-guide-to-load-balancing-2mgd)
+
+18. **🦀 Moltbook: When AI Agents Built Their Own Internet**  
+    🦀 Moltbook: Inside the World Where AI Agents Run Their Own Social Network 🤖
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/inside-moltbook-when-ai-agents-built-their-own-internet-2c7p)
