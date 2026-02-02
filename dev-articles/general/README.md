@@ -81,3 +81,7 @@ Short summaries and links to my General posts.
 19. **🦀 Moltbook’s Rise and Security Breach: An In-Depth Look**  
     1.5M Tokens Exposed: How Moltbook’s 🦀 AI Social Network Tripped on Security
    🔗 [Read on Dev.to](https://dev.to/usman_awan/15m-tokens-exposed-how-moltbooks-ai-social-network-tripped-on-security-b39)
+
+20. **🚨 Chrome Under Attack: The CSS Zero-Day That Shocked 2026**  
+    Understanding CVE-2026-2441: Chrome’s CSS Zero-Day Vulnerability
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/chrome-under-attack-the-css-zero-day-that-shocked-2026-586o)
