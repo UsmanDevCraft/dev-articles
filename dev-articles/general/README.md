@@ -85,3 +85,7 @@ Short summaries and links to my General posts.
 20. **🚨 Chrome Under Attack: The CSS Zero-Day That Shocked 2026**  
     Understanding CVE-2026-2441: Chrome’s CSS Zero-Day Vulnerability
    🔗 [Read on Dev.to](https://dev.to/usman_awan/chrome-under-attack-the-css-zero-day-that-shocked-2026-586o)
+
+21. **Ready Player Me Shut Down — Here's How I Rebuilt Our Avatar System**  
+    From Ready Player Me Shutdown to Building Our Own Avatar Renderer 🚀
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/ready-player-me-shut-down-heres-how-i-rebuilt-our-avatar-system-4p75)
