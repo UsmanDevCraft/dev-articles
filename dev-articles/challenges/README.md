@@ -17,3 +17,7 @@ Short summaries and links to my Dev Community challenges posts.
 3. **2025 Hacktoberfest Writing Challenge**  
    How I Became a Layout Manager from a Junior Frontend Developer in Just 8 Months 
    🔗 [Read on Dev.to](https://dev.to/usman_awan/how-i-became-a-layout-manager-from-a-junior-frontend-developer-in-just-8-months-407d)
+
+4. **WeCoded 2026: Frontend Art 💜**  
+   Frontend Art Submission — Gender Beyond Boundaries 👨‍🦰👩‍🦳 
+   🔗 [Read on Dev.to](https://dev.to/usman_awan/frontend-art-submission-gender-beyond-boundaries-4jck)
